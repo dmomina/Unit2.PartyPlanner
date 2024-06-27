@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#party-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#party-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.party-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.party-item h2 {
+    margin: 0 0 5px 0;
+}
